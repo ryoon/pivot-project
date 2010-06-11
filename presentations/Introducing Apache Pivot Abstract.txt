@@ -1,0 +1,12 @@
+Title:
+Introducing Apache Pivot
+
+Abstract:
+Apache Pivot (http://pivot.apache.org) is a platform for building rich Internet applications (RIAs) in Java. It combines the enhanced productivity and usability features of a modern RIA toolkit with the robustness of the industry-standard Java platform. Pivot includes a number of features that significantly simplify development of modern GUI applications, including an XML markup language for declaring the structure of a user interface, data binding, animated effects and transitions, and Web services integration.
+
+In this session, Pivot founders Greg Brown and Todd Volkert provide an overview of the Pivot platform and walk through the implementation of a simple but practical application that highlights key platform features and development best practices.
+
+Bios:
+Greg Brown is a senior software architect with 15 years of experience developing applications in both a services and R&D capacity. He is the founder and PMC Chair of Apache Pivot, an open source platform for building rich Internet applications in Java. He holds a bachelor’s degree in Computer Systems Engineering from the University of Massachusetts Amherst.
+
+Todd Volkert is a senior software engineer at VMware and co-founder of Apache Pivot. He holds a bachelor's degree in Electrical Engineering & Computer Science from the University of California, Berkeley.
